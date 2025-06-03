@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "ios": "cpp",
+        "unordered_map": "cpp",
+        "xiosbase": "cpp",
+        "iostream": "cpp",
+        "queue": "cpp",
+        "vector": "cpp"
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
+}
